@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Business design: [Let's do i](https://www.letsdoi.com/)
 
-- 🌱 I’m currently learning **C, C++, Data science**
+- 🌱 I’m currently learning **C, C++, Data science** 
 
 - 👨‍🎓 Next step: IA **mastering Pandas, Numphy, TensorFlow, PyTorch**
 
