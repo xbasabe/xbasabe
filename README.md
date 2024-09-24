@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Xabier</h1>
 <h3 align="center">Designer and data scientis aspirant. Learnig code in 42 Urduliz</h3>
 
-- 🔭 I’m currently working on [Business design: Let's do i](https://www.letsdoi.com/)
+- 🔭 I’m currently working on Business design: [Let's do i](https://www.letsdoi.com/)
 
-- 🌱 I’m currently learning **C, C++, Data science and**
+- 🌱 I’m currently learning **C, C++, Data science**
 
-- 👨‍🎓 Next step: IA **mastering Pandas, Numphy, TensorFlow PyTorch**
+- 👨‍🎓 Next step: IA **mastering Pandas, Numphy, TensorFlow, PyTorch**
 
 - 🤝 I’m looking to collaborate **with startups**
 
