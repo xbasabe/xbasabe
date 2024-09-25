@@ -4,19 +4,19 @@
 <h1 align="center">Hi 👋, I'm Xabier</h1>
 <h3 align="center">Designer and data scientis aspirant. Learnig code in 42 Urduliz</h3>
 
-- 🔭 I’m currently working as business designer at: [Let's do i](https://www.letsdoi.com/)
+- 🔭 I’m business designer at: [Let's do i](https://www.letsdoi.com/)
 
-- 🌱 I’m currently learning **C, C++, Data science** 
+- 🌱 I’m currently learning at 42 school some **C, C++, Data science** and more tech stuff 
 
-- 👨‍🎓 Next step: IA **mastering Pandas, Numphy, TensorFlow, PyTorch**
+- 👨‍🎓 Next step, lastering IA: **Pandas, Numphy, TensorFlow, PyTorch**
 
-- 🤝 I’m looking to collaborate **with startups**
+- 🤝 I’m looking to **collaborate with startups**
 
 - 💬 Ask me about **entrepreneurship**
 
 - 📫 How to reach me **👇 linkedin, scroll to found my profile**
 
-- 📄 Know about my experiences. Guess? yes, my linkedin
+- 📄 If you want to know about my experiences, Guess? yes, check my linkedin
 
 - ⚡ Fun fact **I'm 1,60cm and played basketball!**
 
