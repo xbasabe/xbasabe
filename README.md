@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning at 42 school some **C, C++, Data science** and more tech stuff 
 
-- 👨‍🎓 Next step, mastering IA: **Pandas, Numphy, TensorFlow, PyTorch**
+- 👨‍🎓 Next step, mastering IA: **Pandas, Numphy, TensorFlow, PyTorch...**
 
 - 🤝 I’m looking to **collaborate with startups**
 
