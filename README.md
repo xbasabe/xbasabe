@@ -3,7 +3,7 @@
 [![Header](https://media.istockphoto.com/id/1515913422/es/foto/un-analista-de-datos-que-utiliza-la-tecnolog%C3%ADa-ai-para-trabajar-herramienta-para-el-an%C3%A1lisis.jpg?s=612x612&w=0&k=20&c=3tFm5Z27mRTMB5viy2xaMyeN9wIDSs4Li9VJI7ZF0lM=)](https://es.linkedin.com/in/xabierbasabe)
 
 
-<h1 align="center">Hi 👋, I'm Xabier</h1>
+<h1 align="right">Hi 👋, I'm Xabier</h1>
 <h3 align="center">Designer and data scientis aspirant. Learnig code in 42 Urduliz</h3>
 
 - 🔭 I’m business designer at: [Let's do i](https://www.letsdoi.com/)
