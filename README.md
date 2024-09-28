@@ -1,5 +1,3 @@
-[![Header](https://media.licdn.com/dms/image/v2/C5616AQEj9AtM4jTzhQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517479327260?e=2147483647&v=beta&t=EewtXYHJpU1DQ0Ng4YdCJ3cl6Ub9m7c6RYh-DTxSjnQ "Header")](https://es.linkedin.com/in/xabierbasabe)
-
 [![Header](https://github.com/xbasabe/xbasabe/blob/main/Edit.org_design_28-09-12--35.jpg
 )](https://es.linkedin.com/in/xabierbasabe)
 
