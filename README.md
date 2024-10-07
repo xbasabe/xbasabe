@@ -6,7 +6,8 @@
 
 - 🔭 I’m business designer at: [Let's do i](https://www.letsdoi.com/)
 
-- 🌱 I’m currently learning at 42 school some **`C, C++, Data science`** and more tech stuff 
+- 🌱 I’m currently learning at ![image](https://github.com/user-attachments/assets/c168a4ee-983a-4a63-a24f-7728581e488e)
+ 42 school some **`C, C++, Data science`** and more tech stuff 
 
 - 👨‍🎓 Next step, mastering IA: **Pandas, Numphy, TensorFlow, PyTorch...**
 
