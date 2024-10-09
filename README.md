@@ -1,5 +1,6 @@
 [![Header](https://github.com/xbasabe/xbasabe/blob/main/Edit.org_design_28-09-12--35.jpg
-)](https://es.linkedin.com/in/xabierbasabe)
+)](https://es.linkedin.com/in/xabierbasabe) <img src="https://github.com/user-attachments/assets/5505cd32-cdcf-4178-97dc-66da122ce34d" align="left" height="30" width="30"/>
+
 
 <h1 align="center">Hi 👋, I'm Xabier</h1>
 <h3 align="center">Designer and data scientis aspirant. Learnig code in 42 Urduliz</h3>
