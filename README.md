@@ -2,7 +2,7 @@
 )](https://es.linkedin.com/in/xabierbasabe)
 
 
-<h1 align="center">Hi 👋, I'm Xabier <img src="https://github.com/user-attachments/assets/5505cd32-cdcf-4178-97dc-66da122ce34d" align="right" height="30" width="30"/></h1> 
+<h1 align="center">Hi 👋, I'm Xabier <img src="https://github.com/user-attachments/assets/5505cd32-cdcf-4178-97dc-66da122ce34d" height="50" width="50"/></h1> 
 <h3 align="center">Designer and data scientis aspirant. Learnig code in 42 Urduliz</h3>
 
 - 👨‍💻 Working as business designer at: [Let's do i](https://www.letsdoi.com/)
