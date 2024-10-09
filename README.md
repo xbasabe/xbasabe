@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning at 42 school some **`C, C++, Data science`** and more tech stuff 
 
-- 👨‍🎓 Next step, mastering IA: **Pandas, Numphy, TensorFlow, PyTorch...** <img src="https://github.com/user-attachments/assets/afd0709f-467c-4ed8-8c0a-5dafb20e735a" heigth="18" width="18"/>
+- 👨‍🎓 Next step, mastering IA: **Pandas, Numphy, TensorFlow, PyTorch...** <img src="https://github.com/user-attachments/assets/afd0709f-467c-4ed8-8c0a-5dafb20e735a" heigth="18" alt="https://huggingface.co/" width="18"/>
 
 
 - 🤝 I’m looking to **collaborate with startups**
