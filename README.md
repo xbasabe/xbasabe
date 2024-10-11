@@ -8,7 +8,7 @@
 
 - 👨‍💻 Working as business designer at: [Let's do i](https://www.letsdoi.com/)
 
-- 👨‍🎓 Learning some **`C, C++, Data science`** and more tech stuff at <img  src="https://github.com/user-attachments/assets/a73b3905-6cfc-43d9-9772-1e9910d4dd94" alt="https://www.42urduliz.com/" height="18" width="20"/> school
+- 👨‍🎓 Learning some **`C, C++, Data science`** and more tech stuff at <a  href="https://www.42urduliz.com/" target="blank"><img src="https://github.com/user-attachments/assets/a73b3905-6cfc-43d9-9772-1e9910d4dd94" height="18" width="20"/></a> school
 
 - 🧠​ Next step, mastering IA: tools **Pandas, Numphy, TensorFlow, PyTorch...** and models <img src="https://github.com/user-attachments/assets/afd0709f-467c-4ed8-8c0a-5dafb20e735a" alt="https://huggingface.co/" heigth="18"  width="18"/>
 
